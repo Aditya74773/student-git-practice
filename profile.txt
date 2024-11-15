@@ -1,0 +1,6 @@
+Name: Aditya Kumar
+Student ID: 12301713
+Favorite Programming Language: C++
+GitHub Username: Aditya74773
+Current Semester: 3rd sem
+
